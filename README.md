@@ -40,7 +40,7 @@ Each session's slide deck is committed **inside its own folder** once frozen on 
 
 ## 🧪 Today's lab, one click away
 
-Cohort 2 materials are not committed yet. The Course Lab notebooks and their **Open in Colab** badges will appear here (and in [`course-labs/`](course-labs/)) once the Cohort 2 copies are frozen.
+The Day 1 (Course 2) lab notebook is committed — open it straight in Colab from [`course-labs/`](course-labs/). The remaining Course Lab notebooks and their **Open in Colab** badges appear there as the Cohort 2 copies are frozen.
 
 ## Where materials live
 
