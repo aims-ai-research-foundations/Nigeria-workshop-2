@@ -40,7 +40,11 @@ Each session's slide deck is committed **inside its own folder** once frozen on 
 
 ## 🧪 Today's lab, one click away
 
-The Day 1 (Course 2) lab notebook is committed — open it straight in Colab from [`course-labs/`](course-labs/). The remaining Course Lab notebooks and their **Open in Colab** badges appear there as the Cohort 2 copies are frozen.
+The Course Labs open directly in Google Colab — no local setup required:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-2/blob/main/course-labs/day1/day1-course2-student.ipynb) **Day 1 · Course 2 — Small Embeddings and Similarity**
+
+The remaining Cohort 2 notebooks and their badges appear here as they are frozen. See [`course-labs/`](course-labs/) for the full lab-by-day table.
 
 ## Where materials live
 
