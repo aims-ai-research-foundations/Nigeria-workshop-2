@@ -46,7 +46,11 @@ The Course Labs open directly in Google Colab — no local setup required:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-2/blob/main/course-labs/day2/day2-course3-student.ipynb) **Day 2 · Course 3 — Neural Network Training & Overfitting**
 
-The remaining Cohort 2 notebooks and their badges appear here as they are frozen. See [`course-labs/`](course-labs/) for the full lab-by-day table.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-2/blob/main/course-labs/day3/day3-course4-student.ipynb) **Day 3 · Course 4 — A Transformer in 60 Minutes**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-2/blob/main/course-labs/day4/day4-course5-student.ipynb) **Day 4 · Course 5 — Fine-Tuning a Layer with LoRA**
+
+The Day 5 (Course 7) notebook and its badge appear here when the Cohort 2 copy is frozen. See [`course-labs/`](course-labs/) for the full lab-by-day table.
 
 ## Where materials live
 
