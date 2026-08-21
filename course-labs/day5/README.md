@@ -2,7 +2,7 @@
 
 This 60-minute practical explores how **model size and precision affect the memory needed to run a language model**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-1/blob/main/course-labs/day5/Course_07_Notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-2/blob/main/course-labs/day5/Course_07_Notebook.ipynb)
 
 You will work with **Gemma 3** models to:
 
